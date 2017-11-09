@@ -1,7 +1,10 @@
 # Javascript_Bookmarker
 Bookmark-Your Favourite Links using HTML AND JS
+
 // Author - Pranjal Gupta
+
 // Credits - Traversy Media ( Youtube )
+
 Didn't Explored JS to this level.. thanks youtube and traversy media.
 
 Okey,
